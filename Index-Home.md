@@ -3,6 +3,7 @@ import { Coffee, Package, ShoppingCart, Timer } from '@phosphor-icons/react'
 import { useTheme } from 'styled-components'
 
 
+
 // Hook de tema vindo do styled-components para acessar cores e estilos globais\import { useTheme } from 'styled-components'
 
 // Componente que renderiza cada card individual de café
